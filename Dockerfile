@@ -1,5 +1,5 @@
-FROM java:8-jre
-MAINTAINER Michael Ferguson <mpherg@gmail.com>
+FROM arm32v7/openjdk:8-jre
+MAINTAINER Jochen Lutz <jlu@gmx.de>
 
 ENV BLYNK_SERVER_VERSION 0.24.6
 RUN mkdir /blynk

@@ -1,4 +1,4 @@
-# Blynk Server Docker Image
+# Blynk Server Docker Image for ARMv7
 
 [![](https://images.microbadger.com/badges/image/mpherg/blynk-server.svg)](http://microbadger.com/images/mpherg/blynk-server
 "Get your own image badge on microbadger.com") [![](https://images.microbadger.com/badges/version/mpherg/blynk-server.svg)](http://microbadger.com/images/mpherg/blynk-server
