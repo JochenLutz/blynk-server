@@ -13,7 +13,7 @@ Runs your own [Blynk Server](https://github.com/blynkkk/blynk-server) in a Docke
 Easy peasy:
 
 ```sh
-docker run mpherg/blynk-server:latest
+docker run jlutz/blynk-server-arm32v7:latest
 ```
 
 To forward IP ports from the host to the container, do this:
